@@ -1,5 +1,5 @@
 # eof_analysis
-EOF Analysis on MSLP and Z500 data
+Apply EOF Analysis tecnhiques on daily MSLP and Z500 data
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
